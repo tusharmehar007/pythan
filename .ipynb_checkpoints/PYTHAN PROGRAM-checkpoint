@@ -1,0 +1,199 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 5,
+   "id": "8ee4f557-d273-47da-8f8c-67c07bea170e",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "1900\n"
+     ]
+    }
+   ],
+   "source": [
+    "x=100\n",
+    "y=19\n",
+    "print(x*y)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 6,
+   "id": "e52582b5-851b-43fb-a9aa-eb96e1034c83",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "951\n"
+     ]
+    }
+   ],
+   "source": [
+    "x=294\n",
+    "y=657\n",
+    "print(x+y)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "id": "da2a241c-d133-4134-9de4-6f9f2c0f35e2",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "10\n"
+     ]
+    }
+   ],
+   "source": [
+    "x=10\n",
+    "print(x)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 8,
+   "id": "c9ecb82a-1e61-4221-94ee-ab666e97fde0",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "10.88\n"
+     ]
+    }
+   ],
+   "source": [
+    "x=10.88\n",
+    "print(x)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 13,
+   "id": "a2cf19d5-dc1b-4cc7-af70-c2458a58f28d",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "tushar\n"
+     ]
+    }
+   ],
+   "source": [
+    "x='tushar'\n",
+    "print(x)"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 15,
+   "id": "b8153742-adc2-4011-a7ec-8aa5e3463e03",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "<class 'str'>\n",
+      "<class 'str'>\n",
+      "<class 'str'>\n"
+     ]
+    }
+   ],
+   "source": [
+    "x='tushar'\n",
+    "x1=\"tushar\"\n",
+    "x2=''' tushar\n",
+    "     meena'''\n",
+    "print(type(x))\n",
+    "print(type(x1))\n",
+    "print(type(x2))\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "804a9e33-acf6-4cb3-9432-c33147b922d6",
+   "metadata": {},
+   "outputs": [],
+   "source": [
+    "x1=''2''\n",
+    "x2=''2''\n"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "9c25d22f-1e2e-4ccc-aa6c-70351c7317f4",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "8ccf5b70-b109-494f-9b75-b052ca40f413",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "c4b6aa92-c8a9-487e-8de7-fa3d01190664",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "840d6d62-3454-46fd-872e-c89e8605d2a4",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "71f70727-8036-41b8-871d-64b774242811",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python [conda env:base] *",
+   "language": "python",
+   "name": "conda-base-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.13.9"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
